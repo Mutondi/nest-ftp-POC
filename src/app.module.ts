@@ -1,25 +1,24 @@
 import { Module } from '@nestjs/common';
-import { ConfigService } from '@nestjs/config';
+import { ConfigModule, ConfigService } from '@nestjs/config';
 import { FtpModule } from 'nestjs-ftp';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 @Module({
   imports: [
+    ConfigModule.forRoot(),
     FtpModule.forRootFtpAsync({
       useFactory: async () => {
         return {
-          host: '',
+          host: 'ftpupload.net',
           port: 21,
-          user: '',
-          password: '',
-          secure: false,
+          user: 'epiz_30054819',
+          password: 'TZtQdgeaM9xZk',
         };
       },
-      inject: [ConfigService],
     }),
   ],
   controllers: [AppController],
-  providers: [AppService],
+  providers: [AppService, ConfigService],
 })
 export class AppModule {}
