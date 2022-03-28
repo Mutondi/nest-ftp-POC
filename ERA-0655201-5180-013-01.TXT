@@ -1,0 +1,13 @@
+HDR,13,DISCOVERY,217821287,20220117,5180
+LIN,0,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,3637                ,2312.70,1126.70,2312.70,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,1,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,5103                ,1482.73,481.50,1482.73,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,2,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,1209                ,2706.86,858.40,2706.86,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,3,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,1221                ,1400.10,454.70,1400.10,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,4,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,2800                ,1680.12,545.60,1680.12,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,5,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,2800                ,1259.99,545.60,1259.99,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,6,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,0018                ,3807.57,1236.40,3807.57,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,7,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,0023                ,7615.14,2472.90,7615.14,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,8,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,0039                ,1464.45,475.60,1464.45,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,9,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,0968                ,1464.43,475.60,1464.43,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,10,DISCOVERY,75,,E,2022-01-04,0655201,,CXgAnlScK,9AtVnI,,511318520           ,MOREROA C      ,,,,,,2021-12-06,0151                ,1205.69,382.40,1205.69,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
+TRL,11,26399.78

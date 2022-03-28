@@ -1,0 +1,4 @@
+HDR,13,DISCOVERY,221277975,20220316,5250
+LIN,0,DISCOVERY,75,,E,2022-03-15,0719870,,VWN2sG554,8jKmUT,,519747720           ,MARISHANE V    ,,,,,,2021-06-18,0109                ,1121.81,358.30,1121.81,0.00,,,,,,0.00,1238,This claim line has been paid as a Prescribed Minimum Benefit.
+LIN,1,DISCOVERY,75,,E,2022-03-15,0719870,,VWN2sG554,8jKmUT,,519747720           ,MARISHANE V    ,,,,,,2021-06-18,0109                ,-1121.81,-358.30,-358.30,0.00,,,,,,-763.51,36,This is an adjustment of a claim that we have processed before.
+TRL,2,763.51

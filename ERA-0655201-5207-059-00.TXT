@@ -1,0 +1,8 @@
+HDR,59,SASOLMED,72757507,20220202,5207
+LIN,0,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,0011,1157.76,,1140.48,0.00,,,,,,17.28,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+LIN,1,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,0018,908.22,,893.94,0.00,,,,,,14.28,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+LIN,2,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,0023,1816.44,,1787.85,0.00,,,,,,28.59,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+LIN,3,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,2447,1210.96,,1191.90,0.00,,,,,,19.06,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+LIN,4,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,0147,1090.46,,1059.15,0.00,,,,,,31.31,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+LIN,5,SASOLMED,SASOLMED,,EFT,2022-01-29,0655201,,ARTee3jTX9,3447557,,88100534209,NYAMAKAZI,D,SIBANYONI,AR,ANEIE RAGEL,3,2022-01-17,0151,1246.25,,1209.45,0.00,,,,,,36.80,6,The amount claimed is above the scheme rate. you can validate the scheme rate per tariff on the saso
+TRL,6,7282.77

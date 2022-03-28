@@ -1,0 +1,6 @@
+HDR,13,DISCOVERY,217588977,20220117,5166
+LIN,0,DISCOVERY,86,,E,2021-12-21,0655201,,WM1235,97Haxs,,541661600           ,GENIS PR       ,,,,,,2021-11-23,2802                ,1101.60,796.80,796.80,0.00,,,,,,304.80,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,1,DISCOVERY,86,,E,2021-12-21,0655201,,WM1235,97Haxs,,541661600           ,GENIS PR       ,,,,,,2021-11-23,1252                ,2994.90,2036.60,2036.50,0.00,,,,,,958.40,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,2,DISCOVERY,86,,E,2021-12-21,0655201,,WM1235,97Haxs,,541661600           ,GENIS PR       ,,,,,,2021-11-23,0151                ,1145.10,829.30,829.30,0.00,,,,,,315.80,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,3,DISCOVERY,86,,E,2021-12-21,0655201,,WM1235,97Haxs,,541661600           ,GENIS PR       ,,,,,,2021-11-23,0023                ,2662.32,1810.30,1810.40,0.00,,,,,,851.92,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+TRL,4,5473.00

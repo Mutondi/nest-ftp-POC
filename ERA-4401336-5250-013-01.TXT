@@ -1,0 +1,16 @@
+HDR,13,DISCOVERY,221286029,20220316,5250
+LIN,0,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,1142                ,551.00,810.00,551.00,0.00,,,,,,0.00,324,We may have changed the scheme rate on this claim line so that we could pay the maximum recommended 
+LIN,1,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,0008                ,55.10,4209.20,55.10,0.00,,,,,,0.00,324,We may have changed the scheme rate on this claim line so that we could pay the maximum recommended 
+LIN,2,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,1132                ,994.86,1462.40,994.86,0.00,,,,,,0.00,,
+LIN,3,DISCOVERY,91,,E,2022-03-15,4401336,,DPNkonjD5h,9O4cVF,,582181320           ,MBATHA DP      ,,,,,,2022-02-04,1210                ,765.27,1135.50,765.27,0.00,,,,,,0.00,,
+LIN,4,DISCOVERY,91,,E,2022-03-15,4401336,,DPMTRo6avE,9O4cVL,,582181320           ,MBATHA DP      ,,,,,,2022-02-03,1210                ,765.27,1135.50,765.27,0.00,,,,,,0.00,,
+LIN,5,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,0008                ,528.04,0.00,0.00,0.00,,,,,,528.04,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,6,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,1175                ,1760.13,1940.50,1760.13,0.00,,,,,,0.00,304,We have adjusted the amount on this line according to industry standards.
+LIN,7,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,0008                ,2142.77,0.00,0.00,0.00,,,,,,2142.77,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,8,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,1151                ,5356.93,7874.70,5356.93,0.00,,,,,,0.00,304,We have adjusted the amount on this line according to industry standards.
+LIN,9,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,0008                ,272.44,0.00,0.00,0.00,,,,,,272.44,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,10,DISCOVERY,91,,E,2022-03-15,4401336,,DPdR4jpqKN,9O4brv,,582181320           ,MBATHA DP      ,,,,,,2022-02-02,1179                ,1362.19,2002.40,1362.19,0.00,,,,,,0.00,324,We may have changed the scheme rate on this claim line so that we could pay the maximum recommended 
+LIN,11,DISCOVERY,91,,E,2022-03-15,4401336,,DP4MxhFALb,9O4atb,,582181320           ,MBATHA DP      ,,,,,,2022-01-31,0145                ,148.29,220.40,148.29,0.00,,,,,,0.00,1540,This amount is owed by the member and must be paid to the scheme
+LIN,12,DISCOVERY,91,,E,2022-03-15,4401336,,DP4MxhFALb,9O4atb,,582181320           ,MBATHA DP      ,,,,,,2022-01-31,0175                ,642.59,953.80,642.59,0.00,,,,,,0.00,,
+LIN,13,DISCOVERY,91,,E,2022-03-15,4401336,,DPRRuzcEnN,9O4cVj,,582181320           ,MBATHA DP      ,,,,,,2022-02-01,0109                ,370.73,394.50,370.73,0.00,,,,,,0.00,,
+TRL,14,12772.36

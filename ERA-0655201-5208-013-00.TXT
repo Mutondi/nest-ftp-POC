@@ -1,0 +1,20 @@
+HDR,13,DISCOVERY,219002148,20220203,5208
+LIN,0,DISCOVERY,1,,E,2022-02-01,0655201,,WM1263,9FAXY7,,746448990           ,NAIDOO D       ,,,,,,2022-01-11,0151                ,864.10,423.60,0.00,0.00,,,,,,864.10,266,We need more information to approve payment of this claim. Your provider has to supply us with a req
+LIN,1,DISCOVERY,1,,E,2022-02-01,0655201,,MSL3aduxkR,9GuQWV,,484675001           ,LETSAPO MS     ,,,,,,2022-01-20,0192                ,1036.83,477.80,477.80,0.00,,,,,,559.03,394,We have paid this claim up to the Scheme Reimbursement Rate. We have paid up to the member's chosen 
+LIN,2,DISCOVERY,1,,E,2022-02-01,0655201,,MFntwHL4V8,9Fj0D7,,447916480           ,PILA MF        ,,,,,,2022-01-14,0109                ,513.47,547.40,513.47,0.00,,,,,,0.00,,
+LIN,3,DISCOVERY,1,,E,2022-02-01,0655201,,MFUo0NRVl6,9FiyzJ,,447916480           ,PILA MF        ,,,,,,2022-01-13,3637                ,1646.58,2469.60,1646.58,0.00,,,,,,0.00,,
+LIN,4,DISCOVERY,1,,E,2022-02-01,0655201,,MFUo0NRVl6,9FiyzJ,,447916480           ,PILA MF        ,,,,,,2022-01-13,5103                ,1055.34,1055.40,1055.34,0.00,,,,,,0.00,,
+LIN,5,DISCOVERY,1,,E,2022-02-01,0655201,,MFUo0NRVl6,9FiyzJ,,447916480           ,PILA MF        ,,,,,,2022-01-13,0133                ,439.02,224.10,0.00,0.00,,,,,,439.02,274,We have not paid the amount claimed because the funds in the Medical Savings are used up.
+LIN,6,DISCOVERY,1,,E,2022-02-01,0655201,,MFUo0NRVl6,9FiyzJ,,447916480           ,PILA MF        ,,,,,,2022-01-13,0147                ,682.92,713.40,682.92,0.00,,,,,,0.00,,
+LIN,7,DISCOVERY,1,,E,2022-02-01,0655201,,MFUo0NRVl6,9FiyzJ,,447916480           ,PILA MF        ,,,,,,2022-01-13,0174                ,829.26,883.00,829.26,0.00,,,,,,0.00,,
+LIN,8,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,3637                ,2469.48,2469.60,2469.48,0.00,,,,,,0.00,,
+LIN,9,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,5103                ,1055.34,1055.40,1055.34,0.00,,,,,,0.00,,
+LIN,10,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,1218                ,830.25,830.30,830.25,0.00,,,,,,0.00,,
+LIN,11,DISCOVERY,1,,E,2022-02-01,0655201,,WM1263,9FAXY7,,746448990           ,NAIDOO D       ,,,,,,2022-01-11,2802                ,830.30,382.60,0.00,0.00,,,,,,830.30,266,We need more information to approve payment of this claim. Your provider has to supply us with a req
+LIN,12,DISCOVERY,1,,E,2022-02-01,0655201,,WM1263,9FAXY7,,746448990           ,NAIDOO D       ,,,,,,2022-01-11,1252                ,2122.10,1040.30,0.00,0.00,,,,,,2122.10,266,We need more information to approve payment of this claim. Your provider has to supply us with a req
+LIN,13,DISCOVERY,1,,E,2022-02-01,0655201,,WM1263,9FAXY7,,746448990           ,NAIDOO D       ,,,,,,2022-01-11,0023                ,1886.40,924.70,0.00,0.00,,,,,,1886.40,266,We need more information to approve payment of this claim. Your provider has to supply us with a req
+LIN,14,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,0174                ,829.26,883.00,829.26,0.00,,,,,,0.00,,
+LIN,15,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,0147                ,682.92,713.40,682.92,0.00,,,,,,0.00,,
+LIN,16,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,1215                ,830.24,830.30,830.24,0.00,,,,,,0.00,,
+LIN,17,DISCOVERY,1,,E,2022-02-01,0655201,,GXODIF0bw,9FOEjX,,285242700           ,DU PLESSIS G   ,,,,,,2022-01-05,1210                ,1660.50,1676.40,1660.50,0.00,,,,,,0.00,,
+TRL,18,13563.36

@@ -1,0 +1,86 @@
+HDR,13,DISCOVERY,219219378,20220208,5214
+LIN,0,DISCOVERY,1,,E,2022-02-08,0719870,,DBlWSYLG3K,9IF3Ll,,035143120           ,VAN AARDE DB   ,,,,,,2022-01-22,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,1,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,1215                ,1147.80,382.60,1147.80,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,2,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,1218                ,1147.80,382.60,1147.80,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,3,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,5103                ,2188.50,729.50,2188.50,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,4,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,3637                ,3413.70,1137.90,3413.70,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,5,DISCOVERY,1,,E,2022-02-08,0719870,,CMCFcuJcp9,9IPykW,,197632181           ,MAKOLA CM      ,,,,,,2022-01-25,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,6,DISCOVERY,1,,E,2022-02-08,0719870,,Y4ngT8nXI,9IhN0y,,687518091           ,OELOFSE Y      ,,,,,,2022-01-26,0174                ,1408.11,1408.00,1408.11,0.00,,,,,,0.00,,
+LIN,7,DISCOVERY,1,,E,2022-02-08,0719870,,Y4ngT8nXI,9IhN0y,,687518091           ,OELOFSE Y      ,,,,,,2022-01-26,0147                ,758.85,758.80,758.85,0.00,,,,,,0.00,,
+LIN,8,DISCOVERY,1,,E,2022-02-08,0719870,,Y4ngT8nXI,9IhN0y,,687518091           ,OELOFSE Y      ,,,,,,2022-01-26,1132                ,2158.72,2158.80,2158.72,0.00,,,,,,0.00,,
+LIN,9,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,0147                ,1049.10,349.70,1049.10,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,10,DISCOVERY,1,,E,2022-02-08,0719870,,CMDIyWtuks,9IPygA,,197632181           ,MAKOLA CM      ,,,,,,2022-01-24,0174                ,1946.70,648.90,1946.70,0.00,,,,,,0.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,11,DISCOVERY,1,,E,2022-02-08,0719870,,CMzCl3xcnG,9IPxhh,,197632181           ,MAKOLA CM      ,,,,,,2022-01-26,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,12,DISCOVERY,1,,E,2022-02-08,0719870,,DBMVl0r1gB,9IF3zE,,035143120           ,VAN AARDE DB   ,,,,,,2022-01-23,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,13,DISCOVERY,1,,E,2022-02-08,0719870,,LDWxJdYoOR,9IPVpe,,565851100           ,MABEBA LD      ,,,,,,2022-01-24,0174                ,1946.70,648.90,648.90,0.00,,,,,,1297.80,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,14,DISCOVERY,1,,E,2022-02-08,0719870,,LDWxJdYoOR,9IPVpe,,565851100           ,MABEBA LD      ,,,,,,2022-01-24,0147                ,1049.10,349.70,349.70,0.00,,,,,,699.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,15,DISCOVERY,1,,E,2022-02-08,0719870,,LDWxJdYoOR,9IPVpe,,565851100           ,MABEBA LD      ,,,,,,2022-01-24,1215                ,1147.80,382.60,382.60,0.00,,,,,,765.20,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,16,DISCOVERY,1,,E,2022-02-08,0719870,,LDWxJdYoOR,9IPVpe,,565851100           ,MABEBA LD      ,,,,,,2022-01-24,5103                ,2188.50,729.50,729.50,0.00,,,,,,1459.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,17,DISCOVERY,1,,E,2022-02-08,0719870,,LDWxJdYoOR,9IPVpe,,565851100           ,MABEBA LD      ,,,,,,2022-01-24,3637                ,3413.70,1137.90,1137.90,0.00,,,,,,2275.80,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,18,DISCOVERY,1,,E,2022-02-08,0719870,,LDyiB1cN3S,9IPVpo,,565851100           ,MABEBA LD      ,,,,,,2022-01-25,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,19,DISCOVERY,1,,E,2022-02-08,0719870,,LDLBzw87if,9IPnZ3,,565851100           ,MABEBA LD      ,,,,,,2022-01-26,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,20,DISCOVERY,1,,E,2022-02-08,0719870,,Y6NrL73z5,9IhNPZ,,687518091           ,OELOFSE Y      ,,,,,,2022-01-27,0109                ,581.99,582.20,581.99,0.00,,,,,,0.00,,
+LIN,21,DISCOVERY,1,,E,2022-02-08,0719870,,Yyh3DR6MW,9IhNQ0,,687518091           ,OELOFSE Y      ,,,,,,2022-01-29,0109                ,581.99,582.20,581.99,0.00,,,,,,0.00,,
+LIN,22,DISCOVERY,1,,E,2022-02-08,0719870,,RJH7VtkrD3,9IhVtV,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-29,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,23,DISCOVERY,1,,E,2022-02-08,0719870,,RJAJMLfhVa,9IhW0c,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-31,0176                ,1542.22,1542.22,0.00,0.00,,,,,,1542.22,750,We are still evaluating this code and currently do not fund it.
+LIN,24,DISCOVERY,1,,E,2022-02-08,0719870,,JHLRrX3sAa,9IhWrZ,,161937650           ,KEMP JH        ,,,,,,2022-01-28,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,25,DISCOVERY,1,,E,2022-02-08,0719870,,JHVObro0rw,9IhWyi,,161937650           ,KEMP JH        ,,,,,,2022-01-30,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,26,DISCOVERY,1,,E,2022-02-08,0719870,,JHCpA3BoXM,9IhWyn,,161937650           ,KEMP JH        ,,,,,,2022-02-01,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,27,DISCOVERY,1,,E,2022-02-08,0719870,,JHoPN3zApc,9IhWzT,,161937650           ,KEMP JH        ,,,,,,2022-01-31,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,28,DISCOVERY,1,,E,2022-02-08,0719870,,JHCSEP3Ltj,9IhX4N,,161937650           ,KEMP JH        ,,,,,,2022-01-29,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,29,DISCOVERY,1,,E,2022-02-08,0719870,,JHbHZ82je9,9IhX4l,,161937650           ,KEMP JH        ,,,,,,2022-02-03,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,30,DISCOVERY,1,,E,2022-02-08,0719870,,RJawJvJgSB,9IhVk1,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-30,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,31,DISCOVERY,1,,E,2022-02-08,0719870,,RJZuStowkf,9IhVXr,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-28,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,32,DISCOVERY,1,,E,2022-02-08,0719870,,AnNlviIsW,9IhV9a,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-28,1210                ,2317.50,772.50,772.50,0.00,,,,,,1545.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,33,DISCOVERY,1,,E,2022-02-08,0719870,,Y0Gc24LeR,9IhNQC,,687518091           ,OELOFSE Y      ,,,,,,2022-01-28,0109                ,581.99,582.20,581.99,0.00,,,,,,0.00,,
+LIN,34,DISCOVERY,1,,E,2022-02-08,0719870,,YtFTRNI7v,9IhOC0,,687518091           ,OELOFSE Y      ,,,,,,2022-01-30,0176                ,1542.22,1542.22,0.00,0.00,,,,,,1542.22,750,We are still evaluating this code and currently do not fund it.
+LIN,35,DISCOVERY,1,,E,2022-02-08,0719870,,AvOwTVasr,9IhUi6,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-26,1209                ,2688.30,896.10,896.10,0.00,,,,,,1792.20,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,36,DISCOVERY,1,,E,2022-02-08,0719870,,AvOwTVasr,9IhUi6,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-26,1132                ,2984.40,994.80,994.80,0.00,,,,,,1989.60,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,37,DISCOVERY,1,,E,2022-02-08,0719870,,AZBroXZRA,9IhUzP,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-29,1210                ,2317.50,772.50,772.50,0.00,,,,,,1545.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,38,DISCOVERY,1,,E,2022-02-08,0719870,,AGLIfoGC9,9IhUzY,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-27,1210                ,2317.50,772.50,772.50,0.00,,,,,,1545.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,39,DISCOVERY,1,,E,2022-02-08,0719870,,AQ3DW5V7M,9IhUzp,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-30,1210                ,2317.50,772.50,772.50,0.00,,,,,,1545.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,40,DISCOVERY,1,,E,2022-02-08,0719870,,AHflntyDe,9IhV65,,439749220           ,SUTHERLAND A   ,,,,,,2022-01-31,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,41,DISCOVERY,1,,E,2022-02-08,0719870,,JHOZjpvF2L,9IhX5M,,161937650           ,KEMP JH        ,,,,,,2022-02-02,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,42,DISCOVERY,1,,E,2022-02-08,0719870,,FMd6yNpoSg,9HyoKD,,390295582           ,MOHAMED FM     ,,,,,,2022-01-20,0109                ,804.60,268.20,0.00,0.00,,,,,,804.60,54,We have processed this claim before. Please check your statement records.
+LIN,43,DISCOVERY,1,,E,2022-02-08,0719870,,RJhomj6CJq,9ICGHQ,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-23,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,44,DISCOVERY,1,,E,2022-02-08,0719870,,RJ78gQtOUy,9ICGHS,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-22,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,45,DISCOVERY,1,,E,2022-02-08,0719870,,RJdRikKNmN,9ICGHU,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-24,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,46,DISCOVERY,1,,E,2022-02-08,0719870,,RJdRikKNmN,9ICGHU,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-24,1408                ,3022.16,3022.30,3022.16,0.00,,,,,,0.00,,
+LIN,47,DISCOVERY,1,,E,2022-02-08,0719870,,RJdRikKNmN,9ICGHU,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-24,5103                ,1583.01,1583.10,1583.01,0.00,,,,,,0.00,,
+LIN,48,DISCOVERY,1,,E,2022-02-08,0719870,,RJdRikKNmN,9ICGHU,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-24,3637                ,2469.24,2469.60,2469.24,0.00,,,,,,0.00,,
+LIN,49,DISCOVERY,1,,E,2022-02-08,0719870,,RJ8PnUZOCO,9ICGHY,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-26,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,50,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5NQ3Xtbq,9ICGHp,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-25,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,51,DISCOVERY,1,,E,2022-02-08,0719870,,RJ6wS1p2P8,9ICEKZ,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-27,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,52,DISCOVERY,1,,E,2022-02-08,0719870,,FMonRRaFqb,9I8qdJ,,390295582           ,MOHAMED FM     ,,,,,,2022-01-23,1219                ,688.80,229.60,229.60,0.00,,,,,,459.20,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,53,DISCOVERY,1,,E,2022-02-08,0719870,,FMonRRaFqb,9I8qdJ,,390295582           ,MOHAMED FM     ,,,,,,2022-01-23,1213                ,2295.60,765.20,765.20,0.00,,,,,,1530.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,54,DISCOVERY,1,,E,2022-02-08,0719870,,FMzyvFPtuv,9HzGLw,,390295582           ,MOHAMED FM     ,,,,,,2022-01-21,0109                ,804.60,268.20,268.20,0.00,,,,,,536.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,55,DISCOVERY,1,,E,2022-02-08,0719870,,FMjx6054Pf,9HzbSR,,390295582           ,MOHAMED FM     ,,,,,,2022-01-22,1211                ,19122.00,2295.60,2295.60,0.00,,,,,,16826.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,56,DISCOVERY,1,,E,2022-02-08,0719870,,FMjx6054Pf,9HzbSR,,390295582           ,MOHAMED FM     ,,,,,,2022-01-22,1212                ,3443.40,1147.80,1147.80,0.00,,,,,,2295.60,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,57,DISCOVERY,1,,E,2022-02-08,0719870,,FMjx6054Pf,9HzbSR,,390295582           ,MOHAMED FM     ,,,,,,2022-01-22,1215                ,1147.80,382.60,382.60,0.00,,,,,,765.20,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,58,DISCOVERY,1,,E,2022-02-08,0719870,,FMjx6054Pf,9HzbSR,,390295582           ,MOHAMED FM     ,,,,,,2022-01-22,5103                ,2188.50,729.50,729.50,0.00,,,,,,1459.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,59,DISCOVERY,1,,E,2022-02-08,0719870,,FMjx6054Pf,9HzbSR,,390295582           ,MOHAMED FM     ,,,,,,2022-01-22,3637                ,3413.70,1137.90,1137.90,0.00,,,,,,2275.80,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,60,DISCOVERY,1,,E,2022-02-08,0719870,,Tn7BOAdPx,9Hzqm3,,088505540           ,RIGBY T        ,,,,,,2022-01-18,0176                ,1115.53,1115.53,0.00,0.00,,,,,,1115.53,750,We are still evaluating this code and currently do not fund it.
+LIN,61,DISCOVERY,1,,E,2022-02-08,0719870,,FMonRRaFqb,9I8qdJ,,390295582           ,MOHAMED FM     ,,,,,,2022-01-23,1210                ,2317.50,772.50,772.50,0.00,,,,,,1545.00,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,62,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5NQ3Xtbq,9ICGHp,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-25,1408                ,3022.16,3022.30,3022.16,0.00,,,,,,0.00,,
+LIN,63,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5NQ3Xtbq,9ICGHp,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-25,5103                ,1583.01,1583.10,1583.01,0.00,,,,,,0.00,,
+LIN,64,DISCOVERY,1,,E,2022-02-08,0719870,,JHcCMfpJuG,9ID7Ov,,161937650           ,KEMP JH        ,,,,,,2022-01-24,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,65,DISCOVERY,1,,E,2022-02-08,0719870,,JHKavGEQG6,9ID7Oy,,161937650           ,KEMP JH        ,,,,,,2022-01-22,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,66,DISCOVERY,1,,E,2022-02-08,0719870,,JHxIeGG5LE,9ID7P9,,161937650           ,KEMP JH        ,,,,,,2022-01-26,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,67,DISCOVERY,1,,E,2022-02-08,0719870,,JHgaRfRlYf,9ID7PQ,,161937650           ,KEMP JH        ,,,,,,2022-01-27,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,68,DISCOVERY,1,,E,2022-02-08,0719870,,JHjRBO6VBZ,9ID7PR,,161937650           ,KEMP JH        ,,,,,,2022-01-25,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,69,DISCOVERY,1,,E,2022-02-08,0719870,,JHlOcHLeFO,9ID7Pa,,161937650           ,KEMP JH        ,,,,,,2022-01-23,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,70,DISCOVERY,1,,E,2022-02-08,0719870,,DBHZnUxTD6,9IF0SM,,035143120           ,VAN AARDE DB   ,,,,,,2022-01-25,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,71,DISCOVERY,1,,E,2022-02-08,0719870,,DB2efGDlic,9IF3Kw,,035143120           ,VAN AARDE DB   ,,,,,,2022-01-26,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,72,DISCOVERY,1,,E,2022-02-08,0719870,,JHxw8rpBbS,9ID7Os,,161937650           ,KEMP JH        ,,,,,,2022-01-21,3637                ,2469.24,2469.60,2469.24,0.00,,,,,,0.00,,
+LIN,73,DISCOVERY,1,,E,2022-02-08,0719870,,JHxw8rpBbS,9ID7Os,,161937650           ,KEMP JH        ,,,,,,2022-01-21,5103                ,1583.01,1583.10,1583.01,0.00,,,,,,0.00,,
+LIN,74,DISCOVERY,1,,E,2022-02-08,0719870,,JHxw8rpBbS,9ID7Os,,161937650           ,KEMP JH        ,,,,,,2022-01-21,1218                ,830.24,830.30,830.24,0.00,,,,,,0.00,,
+LIN,75,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5NQ3Xtbq,9ICGHp,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-25,3637                ,2469.24,2469.60,2469.24,0.00,,,,,,0.00,,
+LIN,76,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5q9HOI5Z,9ICGIL,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-21,4926                ,5991.03,5991.03,0.00,0.00,,,,,,5991.03,750,We are still evaluating this code and currently do not fund it.
+LIN,77,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5q9HOI5Z,9ICGIL,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-21,1597                ,4898.34,4898.80,3976.10,0.00,,,,,,922.24,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,78,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5q9HOI5Z,9ICGIL,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-21,1132                ,2158.72,2158.80,2158.72,0.00,,,,,,0.00,,
+LIN,79,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5q9HOI5Z,9ICGIL,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-21,0009                ,2609.62,1195.60,2118.30,0.00,,,,,,491.32,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
+LIN,80,DISCOVERY,1,,E,2022-02-08,0719870,,RJ5q9HOI5Z,9ICGIL,,666332070           ,MAKGATI RJ     ,,,,,,2022-01-21,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+LIN,81,DISCOVERY,1,,E,2022-02-08,0719870,,JHxw8rpBbS,9ID7Os,,161937650           ,KEMP JH        ,,,,,,2022-01-21,1210                ,1608.84,1676.40,1608.84,0.00,,,,,,0.00,,
+LIN,82,DISCOVERY,1,,E,2022-02-08,0719870,,JHxw8rpBbS,9ID7Os,,161937650           ,KEMP JH        ,,,,,,2022-01-21,1215                ,830.24,830.30,830.24,0.00,,,,,,0.00,,
+LIN,83,DISCOVERY,1,,E,2022-02-08,0719870,,DBSBC8F2rG,9IF3L8,,035143120           ,VAN AARDE DB   ,,,,,,2022-01-24,1210                ,1676.32,1676.40,1676.32,0.00,,,,,,0.00,,
+TRL,84,110047.88

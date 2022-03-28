@@ -1,27 +1,83 @@
-import { Body, Controller, Get, Post, Query } from '@nestjs/common';
+import { InjectQueue } from '@nestjs/bull';
+import { Controller, Get } from '@nestjs/common';
+import { AlgoliaService } from './algolia/algolia.service';
 import { AppService } from './app.service';
-import { FileInfo, FTPResponse } from 'basic-ftp';
+import { Queue } from 'bull';
+import { FtpService } from 'nestjs-ftp';
 
 @Controller()
 export class AppController {
-  constructor(private readonly appService: AppService) {}
+  constructor(
+    private readonly appService: AppService,
+    private ftp: FtpService,
+    private algolia: AlgoliaService,
+    @InjectQueue('downloadRemittances') private remittanceQueue: Queue,
+    @InjectQueue('uploadRemittances') private uploadRemittance: Queue,
+  ) {}
+
   @Get('htdocs')
-  getFiles(): Promise<FileInfo[]> {
-    return this.appService.listFiles();
+  async getFiles(): Promise<any> {
+    const job = await this.remittanceQueue.add('downloadRemittances', {
+      txDate: new Date(),
+    });
+
+    console.info(job);
+  }
+  @Get('migratePatients')
+  migratePatients(): any {
+    return this.algolia.migratePatients();
   }
 
-  @Get('catalog')
-  downloadFile(@Query() query): Promise<FTPResponse> {
-    const { localPath, remotePath } = query;
-    return this.appService.downloadFile(localPath, remotePath);
+  @Get('movePatients')
+  movePatients(): any {
+    return this.algolia.movePatients();
   }
 
-  @Post('catalog')
-  uploadFile(
-    @Body() /* body  */
-    { filePath, remotePath }: { filePath: string; remotePath: string },
-  ): Promise<FTPResponse> {
-    //const { filePath, remotePath } = body;
-    return this.appService.uploadFile(filePath, remotePath);
+  @Get('moveSubjectives')
+  async moveSubjectives(): Promise<any> {
+    return await this.algolia.moveSubjectives();
+  }
+
+  @Get('moveAssessments')
+  async moveAssessments(): Promise<any> {
+    return await this.algolia.moveAssessments();
+  }
+
+  @Get('moveEncounters')
+  async moveEncounters() {
+    return await this.algolia.moveEncounters();
+  }
+
+  @Get('moveClaims')
+  moveClaims(): any {
+    return this.algolia.moveClaims();
+  }
+
+  @Get('moveCases')
+  moveCases(): any {
+    return this.algolia.moveCases();
+  }
+
+  @Get('movebatch')
+  moveBatch(): any {
+    return this.algolia.moveOneBatch();
+  }
+
+  //getFiles
+
+  @Get('getFiles')
+  async getAllFiles(): Promise<any> {
+    return await this.ftp.list('era');
+  }
+
+  @Get('clearQueues')
+  async clearQueues() {
+    await this.remittanceQueue.clean(0, 'active');
+    await this.remittanceQueue.clean(0, 'completed');
+    await this.remittanceQueue.clean(0, 'failed');
+
+    await this.uploadRemittance.clean(0, 'active');
+    await this.uploadRemittance.clean(0, 'completed');
+    await this.uploadRemittance.clean(0, 'failed');
   }
 }

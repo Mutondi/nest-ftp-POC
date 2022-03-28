@@ -1,0 +1,9 @@
+HDR,13,DISCOVERY,216930907,20211214,5158
+LIN,0,DISCOVERY,1,,E,2021-12-14,0719870,,BSgoqaSOGF,97kpIQ,,490971810           ,BAYI BS        ,,,,,,2021-11-27,0109                ,558.56,558.70,558.56,0.00,,,,,,0.00,,
+LIN,1,DISCOVERY,1,,E,2021-12-14,0719870,,BS8KQTInp4,97kpIY,,490971810           ,BAYI BS        ,,,,,,2021-11-26,0109                ,558.56,558.70,558.56,0.00,,,,,,0.00,,
+LIN,2,DISCOVERY,1,,E,2021-12-14,0719870,,BSlEB1agWi,97kpJG,,490971810           ,BAYI BS        ,,,,,,2021-11-28,0109                ,558.56,257.40,0.00,0.00,,,,,,558.56,274,We have not paid the amount claimed because the funds in the Medical Savings are used up.
+LIN,3,DISCOVERY,1,,E,2021-12-14,0719870,,Yz1WzXWBK,97lN3c,,056841880           ,GREY Y         ,,,,,,2021-12-02,0109                ,772.20,772.20,772.20,0.00,,,,,,0.00,,
+LIN,4,DISCOVERY,1,,E,2021-12-14,0719870,,YEBWpD7pS,97lN5l,,056841880           ,GREY Y         ,,,,,,2021-12-01,0109                ,772.20,772.20,772.20,0.00,,,,,,0.00,,
+LIN,5,DISCOVERY,1,,E,2021-12-14,0719870,,TBuYF09piI,987kbS,,724325110           ,NOVELA TB      ,,,,,,2021-12-02,0174                ,1868.10,622.70,0.00,0.00,,,,,,1868.10,727,Your plan does not cover these services. You must pay this amount.
+LIN,6,DISCOVERY,1,,E,2021-12-14,0719870,,TBuYF09piI,987kbS,,724325110           ,NOVELA TB      ,,,,,,2021-12-02,0147                ,1006.80,335.60,0.00,0.00,,,,,,1006.80,727,Your plan does not cover these services. You must pay this amount.
+TRL,7,2661.52

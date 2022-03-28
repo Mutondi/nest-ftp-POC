@@ -1,0 +1,6 @@
+HDR,13,DISCOVERY,217568406,20220117,5166
+LIN,0,DISCOVERY,50,,E,2021-12-21,0655201,,WM1240,9A31CT,,505286290           ,SMITH CM       ,,,,,,2021-11-23,2802                ,796.80,796.80,796.80,0.00,,,,,,0.00,,
+LIN,1,DISCOVERY,50,,E,2021-12-21,0655201,,WM1240,9A31CT,,505286290           ,SMITH CM       ,,,,,,2021-11-23,1252                ,2036.60,2036.60,2036.60,0.00,,,,,,0.00,324,We may have changed the scheme rate on this claim line so that we could pay the maximum recommended 
+LIN,2,DISCOVERY,50,,E,2021-12-21,0655201,,WM1240,9A31CT,,505286290           ,SMITH CM       ,,,,,,2021-11-23,0023                ,1357.80,1357.70,1357.80,0.00,,,,,,0.00,324,We may have changed the scheme rate on this claim line so that we could pay the maximum recommended 
+LIN,3,DISCOVERY,50,,E,2021-12-21,0655201,,WM1240,9A31CT,,505286290           ,SMITH CM       ,,,,,,2021-11-23,0151                ,829.30,829.30,829.30,0.00,,,,,,0.00,,
+TRL,4,5020.50

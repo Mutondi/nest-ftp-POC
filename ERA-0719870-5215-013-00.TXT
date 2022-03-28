@@ -1,0 +1,11 @@
+HDR,13,DISCOVERY,219255207,20220209,5215
+LIN,0,DISCOVERY,75,,E,2022-02-08,0719870,,MqudXRsbM,9IRlc2,,513591640           ,SITHOLE M      ,,,,,,2022-01-26,3637                ,3586.31,1174.10,3522.30,0.00,,,,,,64.01,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,1,DISCOVERY,75,,E,2022-02-08,0719870,,MqudXRsbM,9IRlc2,,513591640           ,SITHOLE M      ,,,,,,2022-01-26,5103                ,2298.91,752.60,2257.80,0.00,,,,,,41.11,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,2,DISCOVERY,75,,E,2022-02-08,0719870,,MqudXRsbM,9IRlc2,,513591640           ,SITHOLE M      ,,,,,,2022-01-26,1215                ,1205.90,394.80,1184.40,0.00,,,,,,21.50,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,3,DISCOVERY,75,,E,2022-02-08,0719870,,MqudXRsbM,9IRlc2,,513591640           ,SITHOLE M      ,,,,,,2022-01-26,1218                ,1205.90,394.80,1184.40,0.00,,,,,,21.50,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,4,DISCOVERY,75,,E,2022-02-08,0719870,,MrmpcwCEj,9IRlWT,,513591640           ,SITHOLE M      ,,,,,,2022-01-25,0109                ,1168.36,373.30,1119.90,0.00,,,,,,48.46,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,5,DISCOVERY,75,,E,2022-02-08,0719870,,MHVT8BuAo,9IRkem,,513591640           ,SITHOLE M      ,,,,,,2022-01-27,0109                ,1168.36,373.30,1119.90,0.00,,,,,,48.46,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,6,DISCOVERY,75,,E,2022-02-08,0719870,,MqudXRsbM,9IRlc2,,513591640           ,SITHOLE M      ,,,,,,2022-01-26,0109                ,1168.36,373.30,1119.90,0.00,,,,,,48.46,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,7,DISCOVERY,75,,E,2022-02-08,0719870,,MyccMbYzj,9IRlxi,,513591640           ,SITHOLE M      ,,,,,,2022-01-24,0174                ,2025.16,647.10,1941.30,0.00,,,,,,83.86,574,Claim paid from your Prescribed Minimum Benefits.
+LIN,8,DISCOVERY,75,,E,2022-02-08,0719870,,MyccMbYzj,9IRlxi,,513591640           ,SITHOLE M      ,,,,,,2022-01-24,0147                ,1090.47,348.50,1045.50,0.00,,,,,,44.97,574,Claim paid from your Prescribed Minimum Benefits.
+TRL,9,14495.40

@@ -1,0 +1,8 @@
+HDR,13,DISCOVERY,219021077,20220203,5208
+LIN,0,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,0011                ,2115.36,705.00,705.10,0.00,,,,,,1410.26,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,1,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,0023                ,6655.80,2218.50,2218.50,0.00,,,,,,4437.30,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,2,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,1252                ,2994.90,998.30,998.20,0.00,,,,,,1996.70,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,3,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,2802                ,1101.60,367.20,367.20,0.00,,,,,,734.40,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,4,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,0147                ,945.30,335.60,335.60,0.00,,,,,,609.70,45,This claim exceeds the maximum amount payable by the Scheme.
+LIN,5,DISCOVERY,36,,E,2022-02-01,0655201,,WM1264,9FAIUm,,182287910           ,DLAMINI M      ,,,,,,2021-12-10,0151                ,1145.10,406.50,406.50,0.00,,,,,,738.60,45,This claim exceeds the maximum amount payable by the Scheme.
+TRL,6,5031.10

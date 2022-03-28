@@ -1,0 +1,5 @@
+HDR,13,DISCOVERY,218553389,20220119,5194
+LIN,0,DISCOVERY,1,,E,2022-01-18,0655201,,EMo8HL2iyz,9D73g8,,422337590           ,MASENYA EM     ,,,,,,2021-12-15,0151                ,1145.10,406.50,406.50,0.00,,,,,,738.60,326,We have paid this claim line up to the agreed amount. You are responsible for the balance.
+LIN,1,DISCOVERY,1,,E,2022-01-18,0655201,,EMo8HL2iyz,9D73g8,,422337590           ,MASENYA EM     ,,,,,,2021-12-15,2447                ,1331.10,443.70,443.70,0.00,,,,,,887.40,326,We have paid this claim line up to the agreed amount. You are responsible for the balance.
+LIN,2,DISCOVERY,1,,E,2022-01-18,0655201,,EMo8HL2iyz,9D73g8,,422337590           ,MASENYA EM     ,,,,,,2021-12-15,0023                ,1996.62,665.60,665.60,0.00,,,,,,1331.02,326,We have paid this claim line up to the agreed amount. You are responsible for the balance.
+TRL,3,1515.80
