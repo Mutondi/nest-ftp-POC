@@ -1,5 +1,0 @@
-HDR,13,DISCOVERY,220305757,20220302,5236
-LIN,0,DISCOVERY,50,,E,2022-03-01,4401336,,TTnG3L5zfe,9MjSPn,,554940820           ,PHALATSE TT    ,,,,,,2022-01-26,0109                ,552.38,394.50,394.50,0.00,,,,,,157.88,391,We paid the amount on this line according to the agreed payment arrangement.  You do not have to pay
-LIN,1,DISCOVERY,50,,E,2022-03-01,4401336,,TT2cHeBERP,9MjU2H,,554940820           ,PHALATSE TT    ,,,,,,2022-01-25,0175                ,683.71,953.80,683.71,0.00,,,,,,0.00,,
-LIN,2,DISCOVERY,50,,E,2022-03-01,4401336,,TT2cHeBERP,9MjU2H,,554940820           ,PHALATSE TT    ,,,,,,2022-01-25,0145                ,158.86,220.40,158.86,0.00,,,,,,0.00,,
-TRL,3,1237.07

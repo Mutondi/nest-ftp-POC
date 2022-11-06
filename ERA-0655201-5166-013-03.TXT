@@ -1,9 +1,0 @@
-HDR,13,DISCOVERY,217585054,20220117,5166
-LIN,0,DISCOVERY,75,,E,2021-12-21,0655201,,ERMqQXYBJ,985BDu,,527803430           ,THEBEDE E      ,,,,,,2021-11-10,2137                ,292.89,285.30,285.30,0.00,,,,,,7.59,45,This claim exceeds the maximum amount payable by the Scheme.
-LIN,1,DISCOVERY,75,,E,2021-12-21,0655201,,WM1241,9A3IDj,,568475690           ,VAN DER WALT EJ,,,,,,2021-11-16,0151                ,382.40,382.40,382.40,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
-LIN,2,DISCOVERY,75,,E,2021-12-21,0655201,,ERMqQXYBJ,985BDu,,527803430           ,THEBEDE E      ,,,,,,2021-11-10,0151                ,401.90,382.40,382.40,0.00,,,,,,19.50,45,This claim exceeds the maximum amount payable by the Scheme.
-LIN,3,DISCOVERY,75,,E,2021-12-21,0655201,,ERMqQXYBJ,985BDu,,527803430           ,THEBEDE E      ,,,,,,2021-11-10,0023                ,585.78,570.70,570.70,0.00,,,,,,15.08,45,This claim exceeds the maximum amount payable by the Scheme.
-LIN,4,DISCOVERY,75,,E,2021-12-21,0655201,,WM1241,9A3IDj,,568475690           ,VAN DER WALT EJ,,,,,,2021-11-16,1252                ,856.00,856.00,856.00,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
-LIN,5,DISCOVERY,75,,E,2021-12-21,0655201,,WM1241,9A3IDj,,568475690           ,VAN DER WALT EJ,,,,,,2021-11-16,0023                ,570.66,570.70,570.66,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
-LIN,6,DISCOVERY,75,,E,2021-12-21,0655201,,WM1241,9A3IDj,,568475690           ,VAN DER WALT EJ,,,,,,2021-11-16,2802                ,378.90,378.90,378.90,0.00,,,,,,0.00,574,Claim paid from your Prescribed Minimum Benefits.
-TRL,7,3426.36
