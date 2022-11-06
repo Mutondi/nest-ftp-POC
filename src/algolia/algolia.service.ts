@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { HttpService, Injectable } from '@nestjs/common';
 import { createClient, SupabaseClient } from '@supabase/supabase-js';
 import { v4 as uuidv4 } from 'uuid';
 
@@ -16,21 +16,23 @@ const client = algoliasearch(APP_ID, ADMIN_KEY);
 
 @Injectable()
 export class AlgoliaService {
-  constructor(private appService: AppService) {}
+  constructor(private appService: AppService, private http: HttpService) {}
 
   async migratePatients() {
     const clients = await this.appService.getClients();
 
-    const client = clients.filter((client) => client.pcns === '0760560')[0];
+    const client = clients.filter((client) => client.pcns === '7229771')[0];
 
     const clientFirebase = this.createFirebaseInstance(client);
 
+    console.log(clientFirebase.firestore().collection('Patients'));
     const allPatients = await clientFirebase
       .firestore()
       .collection('Patients')
       .orderBy('createdAt', 'asc')
       .get();
 
+    console.log(allPatients);
     console.log(allPatients.docs.length);
 
     const patients = allPatients.docs.map((d) => {
@@ -76,14 +78,90 @@ export class AlgoliaService {
     }
   }
 
+  async getAllMissingClaims() {
+    const clients = await this.appService.getClients();
+
+    const customer = clients.filter((client) => client.pcns === '7229771')[0];
+    let hits = [];
+    const allClaims = await client.initIndex(customer?.claimsIndex).search('', {
+      filters: 'creationTimestamp:1638309600 TO 1643580000',
+      hitsPerPage: 1000,
+    });
+
+    console.info(hits.length);
+
+    return allClaims.hits;
+  }
+
+  async moveClaimsMahlogo() {
+    const clients = await this.appService.getClients();
+
+    const customer = clients.filter((client) => client.pcns === '0655201')[0];
+
+    const practiceId = customer.id;
+
+    const db = this.createSupabaseInstance();
+
+    const { data, error } = await db
+      .from('claims')
+      .select('*')
+      .eq('tenantId', practiceId)
+      .order('createdAt', { ascending: true });
+
+    const formattedForAirtable = data.map((claim) => {
+      return {
+        Practice: 'DR WP MAHLOGO INC',
+        Name: claim?.header?.patientName + ' ' + claim?.header?.patientSurname,
+        Notes: claim?.responses[0]?.claimStatus,
+        scheme: claim?.header?.medicalAid,
+        link:
+          'https://multitenantpma.web.app/patients/' +
+          claim?.patientId +
+          '/cases/' +
+          claim?.caseId,
+      };
+    });
+
+    const airtableObjs = await Promise.all(
+      formattedForAirtable.slice(581).map(async (obj) => {
+        const sheetObj = {
+          records: [
+            {
+              fields: obj,
+            },
+          ],
+        };
+
+        const res = await this.http
+          .post(
+            'https://api.airtable.com/v0/appEBTNj7p9KM2nUb/Submitted%20Claims',
+            sheetObj,
+            {
+              headers: {
+                authorization: 'Bearer ' + 'keyJysZwwDBSIjqCb',
+                'Content-Type': 'application/json',
+              },
+            },
+          )
+          .toPromise();
+
+        console.log(res);
+        return res.data;
+      }),
+    );
+
+    return airtableObjs;
+  }
+
+  /**Moves patients to algolia */
   async movePatients() {
-    const index = client.initIndex('tNevPatients');
+    const index = client.initIndex('mfuloanePatients');
     const db = this.createSupabaseInstance();
 
     const { data, error } = await db
       .from('patients')
       .select('*')
-      .eq('tenant', 'c643e31d-9bcf-479b-aaa2-752fc55d494c');
+      .eq('tenant', 'a091d79a-79f9-4deb-9c2a-700bb81e73d0');
 
     if (error) {
       console.log(error);
@@ -115,7 +193,7 @@ export class AlgoliaService {
   async moveCases() {
     const clients = await this.appService.getClients();
 
-    const malf = clients.filter((client) => client.pcns === '0760560')[0];
+    const malf = clients.filter((client) => client.pcns === '7229771')[0];
 
     const malfFirebase = this.createFirebaseInstance(malf);
     console.info(malfFirebase);
@@ -176,7 +254,7 @@ export class AlgoliaService {
   async moveSubjectives() {
     const clients = await this.appService.getClients();
 
-    const malf = clients.filter((client) => client.pcns === '0760560')[0];
+    const malf = clients.filter((client) => client.pcns === '7229771')[0];
 
     const malfFirebase = this.createFirebaseInstance(malf);
     console.info(malfFirebase);
@@ -263,7 +341,7 @@ export class AlgoliaService {
   async moveAssessments() {
     const clients = await this.appService.getClients();
 
-    const malf = clients.filter((client) => client.pcns === '0760560')[0];
+    const malf = clients.filter((client) => client.pcns === '7229771')[0];
 
     const malfFirebase = this.createFirebaseInstance(malf);
 
@@ -340,7 +418,7 @@ export class AlgoliaService {
   async moveEncounters() {
     const clients = await this.appService.getClients();
 
-    const client = clients.filter((client) => client.pcns === '0760560')[0];
+    const client = clients.filter((client) => client.pcns === '7229771')[0];
 
     const clientFirebase = this.createFirebaseInstance(client);
 
@@ -441,7 +519,7 @@ export class AlgoliaService {
   async moveClaims() {
     const clients = await this.appService.getClients();
 
-    const customer = clients.filter((client) => client.pcns === '0760560')[0];
+    const customer = clients.filter((client) => client.pcns === '7229771')[0];
 
     console.info(client, { structured: true });
 
@@ -779,9 +857,9 @@ export class AlgoliaService {
       splitArray.map(async (arr, index) => {
         //const { data, error } = await db.from('claimss').insert(arr);
         // console.log(data?.length);
-        console.log(`makinta${index + 1}.json`, arr.length);
+        console.log(`dmabaso${index + 1}.json`, arr.length);
         fs.writeFile(
-          `makinta${index + 1}.json`,
+          `dmabaso${index + 1}.json`,
           JSON.stringify(arr, null, 2),
           'utf-8',
           (err) => {
@@ -804,7 +882,7 @@ export class AlgoliaService {
   }
 
   moveOneBatch() {
-    fs.readFile('makinta1.json', 'utf-8', async (err, jsonString) => {
+    fs.readFile('dmabaso3.json', 'utf-8', async (err, jsonString) => {
       const info = JSON.parse(jsonString);
       const db = this.createSupabaseInstance();
 
@@ -813,6 +891,7 @@ export class AlgoliaService {
 
       console.log(data?.length);
       console.log(error);
+      return data;
     });
   }
   //generateUUID

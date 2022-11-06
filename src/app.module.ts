@@ -1,4 +1,4 @@
-import { Module } from '@nestjs/common';
+import { HttpModule, Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { ScheduleModule } from '@nestjs/schedule';
 import { FtpModule } from 'nestjs-ftp';
@@ -9,6 +9,7 @@ import { BullModule } from '@nestjs/bull';
 
 @Module({
   imports: [
+    HttpModule,
     ConfigModule.forRoot(),
     FtpModule.forRootFtpAsync({
       useFactory: async () => {

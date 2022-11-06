@@ -28,6 +28,15 @@ export class AppController {
     return this.algolia.migratePatients();
   }
 
+  @Get('missingClaims')
+  missingClaims(): any {
+    return this.algolia.getAllMissingClaims();
+  }
+
+  @Get('mahlogoClaims')
+  mahlogoClaims(): any {
+    return this.algolia.moveClaimsMahlogo();
+  }
   @Get('movePatients')
   movePatients(): any {
     return this.algolia.movePatients();
